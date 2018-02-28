@@ -1,0 +1,75 @@
+********************************************************************************
+PACKAGE-LOG: 2016-04-05 05:35:56
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.1.6
+WORDPRESS:	4.4.2
+PHP INFO:	5.6.16 | SAPI: apache2handler
+SERVER:		Apache/2.4.17 (Win64) PHP/5.6.16 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 5000M (128M default) 
+MEMORY STACK: 30.75MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:162 | filtered:0 | create:162 
+FILTERED: [] 
+SQL CREATED: 20160405_employme_57034e9b842975518160405053523_database.sql 
+SQL FILE SIZE: 2.12MB (2227131) 
+SQL FILE TIME: 2016-04-05 05:35:58 
+SQL RUNTIME: 1.87 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  C:/wamp64/www/wordpress 
+ARCHIVE FILE: 20160405_employme_57034e9b842975518160405053523_archive.zip 
+FILTERS: *OFF* 
+DIRS:  not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	67.09MB 
+STATS:	Dirs 824 | Files 5,647 
+SQL ADDED: 20160405_employme_57034e9b842975518160405053523_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 6471
+    [filename] => C:\wamp64\www\wordpress\wp-snapshots\tmp\20160405_employme_57034e9b842975518160405053523_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 30.7MB 
+ARCHIVE RUNTIME: 38.25 sec. 
+MEMORY STACK: 33.25MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [C:/wamp64/www/wordpress/wp-snapshots/tmp/20160405_employme_57034e9b842975518160405053523_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 2.12MB 
+Installer File: 319.25KB 
+Archive File: 30.7MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 40.43 sec.
+PEAK PHP MEMORY USED: 34.75MB
+DONE PROCESSING => 20160405_employme 2016-04-05 05:36:37
+ 

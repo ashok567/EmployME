@@ -1,0 +1,50 @@
+
+input[type="submit"] {
+background-color: #428bca;
+}
+
+select
+{
+    float:left;
+	margin-top:8px;
+	color:#545454;
+}
+
+label
+{
+	float:left;
+	margin-top:8px;
+	font-size:16px;
+	color:#545454;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	-border-radius: 2px;
+}
+
+p {
+    margin-bottom: 0px;
+}
+
+textarea{
+margin: 0px 0px 20px;
+width: 206px; 
+height: 69px;
+}
+
+.edit
+{
+	float:left;
+	background:url(../images/edit.png) no-repeat;
+	width:32px;
+	height:32px;
+	display:block;
+	cursor: pointer;
+	margin-left:10px;
+}
+
+.clear
+{
+	clear:both;
+	height:20px;
+}
+

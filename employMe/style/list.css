@@ -1,0 +1,70 @@
+a:link {
+    color: blue;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: grey;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:active {
+    color: green;
+    background-color: transparent;
+    text-decoration: underline;
+} 
+ #suggest{	 
+ line-height:40px;
+ float:right;
+ background:#eeeeee;
+}
+
+.button-0 {
+    padding: 3px 10px;
+    margin: 0px 5px 5px 0px;
+    float: left;
+    border-radius: 10px;
+    font-family: 'Helvetica', cursive;
+    font-size: 15px;
+    color: #FFF;
+    text-decoration: none;  
+    background-color: #3498DB;
+    border-bottom: 5px solid #2980B9;
+    text-shadow: 0px -2px #2980B9;
+    /* Animation */
+    transition: all 0.1s;
+    -webkit-transition: all 0.1s;
+}
+
+.button-0:hover, 
+.button-0:focus {
+    text-decoration: none;
+    color: #fff;
+}
+
+.button-0:active {
+    transform: translate(0px,5px);
+    -webkit-transform: translate(0px,5px);
+    border-bottom: 1px solid;
+}
+
+.navbar>ul>li>a:hover {
+     background:#8c1b1f;
+     padding-bottom:13px;
+     padding-top:17px;
+     padding-left:10px;
+     padding-right:10px; 
+}
+.img-circle {
+    background-position: 50%;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+
